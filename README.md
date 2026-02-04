@@ -1,6 +1,6 @@
 <!-- Company Banner -->
 <p align="center">
-  <img src="images/banner.jpg" alt="Company Banner" />
+  <img src="images/elementobanner.jpg" alt="Company Banner" />
 </p>
 
 <h1 align="center">ElementoDev.</h1>
